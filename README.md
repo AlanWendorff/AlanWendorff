@@ -1,8 +1,8 @@
 # Alan Wendorff
 
-##- Electronic technician and Front-End developer.
+<h3><b>Electronic technician and Front-End developer</b></h3>
 
-###  I’m currently working with:
+Currently working with:
 
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-087ea4?logo=nextdotjs&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/></a>
