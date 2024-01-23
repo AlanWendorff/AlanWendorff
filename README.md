@@ -1,4 +1,5 @@
 # Alan Wendorff
+<img width="2000" alt="link banner 2" src="https://github.com/AlanWendorff/AlanWendorff/assets/62715512/9f492fff-4015-48e2-ab3d-3c0f54d8580f">
 
 <h3><b>Electronic technician and Front-End developer</b></h3>
 
