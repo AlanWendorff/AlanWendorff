@@ -2,6 +2,8 @@
 
 <h3><b>I'm Alan Wendorff, electronic technician and Front-End developer</b></h3>
 
+[Click here to see my resume 🤙](https://drive.google.com/file/d/1AOjj5lElLJcP4V94SquhEfUS_gC052wn/view?usp=sharing)
+
 My stack:
 
 <img src="https://img.shields.io/badge/-React-20232A?logo=React&logoColor=white"/> <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next-087ea4?logo=nextdotjs&logoColor=white"/></a>
